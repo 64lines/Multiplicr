@@ -1,3 +1,3 @@
 # Application: Multiplicr 
 
-JavaScript application that can find all the multipliers (factors) of a number.
+JavaScript application that can find all the two multipliers (factors) of a number.
